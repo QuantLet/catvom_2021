@@ -1,0 +1,17 @@
+Name of Quantlet: catvom_2021_06_make_error_tables
+
+Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
+
+Description: 'Use the data from the Quantlet catvom_2021_05_make_error_data to make readable error tables.'
+
+Keywords: performance measurement, error tables 
+
+Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
+
+See also: other Quantlets in this project
+
+Submitted: 02.09.2023
+
+Datafile: appVSest_summary.rda
+
+Output: appVSest_errors_w_mcs.tex

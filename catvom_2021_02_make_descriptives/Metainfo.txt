@@ -1,0 +1,17 @@
+Name of Quantlet: catvom_2021_02_make_descriptives
+
+Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
+
+Description: 'Generate the descriptive tables of the raw data.'
+
+Keywords: descriptives
+
+Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
+
+See also: other Quantlets in this project
+
+Submitted: 02.09.2023
+
+Datafile: tsdata.rda, tsdata_wOutl.rda
+
+Output: descriptives_est_and_app.tex, descriptives_nest_and_napp.tex, descriptives_other.tex, descriptives_sest_and_sapp.tex

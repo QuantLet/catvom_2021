@@ -1,0 +1,17 @@
+Name of Quantlet: catvom_2021_03_make_desc_plot
+
+Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
+
+Description: 'Provides descriptive plots of different measures used in the analysis.'
+
+Keywords: descriptives, plots 
+
+Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
+
+See also: other Quantlets in this project
+
+Submitted: 02.07.2023
+
+Datafile: tsdata.rda
+
+Output: corrtable_all.tex, desc_all_app_norm.tex, desc_all_app_raw.tex, desc_all_app_stand.tex, desc_all_est_norm.tex, desc_all_est_raw.tex, desc_all_est_stand.tex, desc_components.tex, desc_new_raw.tex, desc_old_raw.tex

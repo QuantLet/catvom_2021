@@ -1,0 +1,17 @@
+Name of Quantlet: catvom_2021_01_calc_measures
+
+Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
+
+Description: 'Takes raw data from Blockwatch, CoinmarketCap and the Bitcoin Blockchain (see the public repository https://github.com/trudi-group/ccurr_velocity of Weizenbaum Institut for further instructions), cleans it and prepares the variables needed for the further analysis (f.e. different velocity measures, prices, volatility, ...).' 
+
+Keywords: data set, variable transformation, reading and writing data 
+
+Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
+
+See also: other Quantlets in this project
+
+Submitted: 02.09.2023
+
+Datafile: ts_datadump.rda
+
+Output: tsdata.rda, tsdata_wOutl.rda
