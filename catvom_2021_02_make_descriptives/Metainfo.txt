@@ -4,7 +4,7 @@ Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)
 
 Description: 'Generate the descriptive tables of the raw data.'
 
-Keywords: descriptives
+Keywords: descriptives, bitcoin, velocity, pricing, Cryptocurrencies
 
 Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
 

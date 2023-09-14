@@ -4,7 +4,7 @@ Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)
 
 Description: 'Prepare correlation plot of the components.'
 
-Keywords: Plotting, Correlation
+Keywords: Plotting, Correlation, bitcoin, velocity, pricing
 
 Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
 

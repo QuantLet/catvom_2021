@@ -4,7 +4,7 @@ Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)
 
 Description: 'Pursue MZ Regression as a further dimension for performance analysis.'
 
-Keywords: MZ regression, performance analysis 
+Keywords: MZ regression, performance analysis, bitcoin, velocity 
 
 Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
 

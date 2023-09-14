@@ -4,7 +4,7 @@ Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)
 
 Description: 'Provides descriptive plots of different measures used in the analysis.'
 
-Keywords: descriptives, plots 
+Keywords: descriptives, plots, bitcoin, velocity, pricing 
 
 Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
 

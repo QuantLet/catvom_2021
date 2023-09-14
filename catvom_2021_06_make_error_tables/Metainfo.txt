@@ -4,7 +4,7 @@ Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)
 
 Description: 'Use the data from the Quantlet catvom_2021_05_make_error_data to make readable error tables.'
 
-Keywords: performance measurement, error tables 
+Keywords: performance measurement, error tables, bitcoin, velocity, pricing 
 
 Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
 

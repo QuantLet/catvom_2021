@@ -4,7 +4,7 @@ Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)
 
 Description: 'Provides a table of the correlations between the raw data.'
 
-Keywords: plotting
+Keywords: plotting, bitcoin, velocity, pricing, correlation
 
 Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
 

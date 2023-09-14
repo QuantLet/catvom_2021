@@ -4,7 +4,7 @@ Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)
 
 Description: 'Persue MCS model confidence set tests.'
 
-Keywords: performance testing
+Keywords: performance testing, bitcoin, velocity, pricing, mcs
 
 Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
 
