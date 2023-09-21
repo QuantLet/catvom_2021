@@ -1,6 +1,6 @@
 Name of Quantlet: catvom_2021_08_make_corrplot_components
 
-Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
+Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021). Especially corrplot_components.tex which is part of the paper.'
 
 Description: 'Prepare correlation plot of the components.'
 

@@ -2,7 +2,7 @@ Name of Quantlet: catvom_2021_03_make_desc_plot
 
 Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
 
-Description: 'Provides descriptive plots of different measures used in the analysis.'
+Description: 'Provides descriptive plots of different measures used in the analysis. Especially desc_components.tex, desc_all_app_norm.tex and desc_all_app_stand.tex, desc_all_est_norm.tex and desc_all_est_stand.tex which are part of the paper.'
 
 Keywords: descriptives, plots, bitcoin, velocity, pricing 
 

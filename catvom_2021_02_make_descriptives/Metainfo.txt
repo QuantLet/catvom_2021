@@ -2,7 +2,7 @@ Name of Quantlet: catvom_2021_02_make_descriptives
 
 Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
 
-Description: 'Generate the descriptive tables of the raw data.'
+Description: 'Generate the descriptive tables of the raw data. Especially descriptives_est_and_app.tex which is part of the paper.'
 
 Keywords: descriptives, bitcoin, velocity, pricing, Cryptocurrencies
 
