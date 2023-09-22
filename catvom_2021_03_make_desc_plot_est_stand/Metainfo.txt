@@ -1,0 +1,15 @@
+Name of Quantlet: catvom_2021_03_make_desc_plot_est_stand
+
+Published in: 'Cryptocurrencies and the Velocity of Money (Pernice et al., 2021)'
+
+Description: 'Provides descriptive plots of different measures used in the analysis.'
+
+Keywords: descriptives, plots, bitcoin, velocity, pricing 
+
+Author: Ingolf Pernice, Hermann Elendner, Georg Gentzen
+
+See also: other Quantlets in this project
+
+Submitted: 02.07.2023
+
+Datafile: tsdata.rda
